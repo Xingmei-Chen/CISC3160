@@ -34,7 +34,7 @@ Compile and Run:
 javac *.java
 java Interpreter [Input file name]
 
-input1.in ~ input5.in are the test file
+input1.in ~ input4.txt are the test file
 Example of run:
 
-java Interpreter input1.in
+java Interpreter input4.txt
